@@ -1,6 +1,6 @@
 # fetching ISS
 
-Get the location of international space station location and shows it on the map
+Get the live location of international space station location and shows it on the map
 
 # API
 
