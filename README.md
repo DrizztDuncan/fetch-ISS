@@ -13,7 +13,7 @@ Get the live location of international space station location and shows it on th
 - leaflit
 - openstreetmap.org
 
-\*\*Frontend
+**Frontend:**
 
 - HTML
 - CSS
