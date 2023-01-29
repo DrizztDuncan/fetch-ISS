@@ -17,7 +17,7 @@ Get the location of international space station location and shows it on the map
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Where the ISS at](https://user-images.githubusercontent.com/39251171/215313253-20473e3f-384c-43cc-97b2-5fdeaa832912.png)
 
 ## Acknowledgements
 
